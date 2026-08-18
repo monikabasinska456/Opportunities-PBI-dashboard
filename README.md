@@ -124,15 +124,4 @@ IF(
 - DAX — time intelligence, dynamic HTML KPI cards, calculated columns for bucketing/estimation
 - Star-schema data modeling
 
-## 🚀 Possible Next Steps
-- Break out `Accounts` potential vs. actual pipeline coverage (using `Total Account Revenue Potential`) to find under-penetrated large accounts.
-- Add YoY view using the already-built `Won Revenue YoY %` measure, to separate seasonal noise from real trend.
-- Extend `Estimated Deal Value` with a probability-weighted variant (e.g. by deal_stage) for a more realistic forecast than flat list price.
 
-## 📁 Files
-- `opps.pbix` — full Power BI file
-- `/data` — sample source data (CSV)
-- `/screenshots` — dashboard preview images
-
----
-*Part of a 3-project Power BI portfolio covering Sales, Operations (CIFOT/DIFOT), and Marketing (NPS/CSAT) analytics.*
