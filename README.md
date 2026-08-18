@@ -45,14 +45,14 @@ Supporting visuals: opportunity funnel by deal stage, revenue by sector, revenue
 
 ## 🏆 Page 2 — Leaderboard
 
-![Leaderboard](.leaderboard.png)
+![Leaderboard](./leaderboard.png)
 
 - **Win Rate vs. Deal Size by Agent** - a bubble chart (bubble size = Won Revenue YTD) that segments reps by *sales style*, not just rank. It splits the team into natural quadrants: high win-rate closers, big-deal hunters, and reps who may need coaching — a more actionable view than a single ranked list.
 - **Sales Agent Scorecard** - a full table (Win Rate %, Average Deal Size, Won Revenue YTD) with consistent sorting and currency formatting, serving as the single source of truth behind the chart.
 
 ## ⚠️ Page 3 - Pipeline Health
 
-![Pipeline Health](.pipeline-health.png)
+![Pipeline Health](./pipeline-health.png)
 
 The proactive-risk page. While pages 1–2 report on what already happened, this page flags what could go wrong next:
 
